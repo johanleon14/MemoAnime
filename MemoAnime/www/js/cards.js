@@ -5,17 +5,16 @@ var tam=localStorage.getItem("tam");
 //alert(x);
 function fillCards(){
     var output = '';
+    alert(x);
     for (var i = 0; i < tam; i=i+2) {
         
-        var Name=jsonCards.info[x[i]-1].Name;
-        var Id=jsonCards.info[x[i]-1].Id;
-        var Type=jsonCards.info[x[i]-1].Type;
-        var Distance=jsonCards.info[x[i]-1].Distance;
-        var Constellation=jsonCards.info[x[i]-1].Constellation;
-        var Category=jsonCards.info[x[i]-1].Category;
-        var Link=jsonCards.info[x[i]-1].Link;
+        var Nombre=jsonCards.info[x[i]-1].Nombre;
+        var Edad=jsonCards.info[x[i]-1].Edad;
+        var Altura=jsonCards.info[x[i]-1].Altura;
+        var Sexo=jsonCards.info[x[i]-1].Sexo;
+        var Anime=jsonCards.info[x[i]-1].Anime;
         
-        output += '<article><div class="imagen"><img src="img/cards/'+x[i]+'.jpg"></div><div class="text"><p>Name: '+Name+'</p><p>Id: '+Id+'</p><p>Type: '+Type+'</p><p>Distance: '+Distance+'</p><p>Constellation: '+Constellation+'</p><p>Category: '+Category+'</p><a href="'+Link+'"><p>Link</p></a></div></article>';
+        output += '<article><div class="imagen"><img src="img/cards/'+x[i]+'.jpg"></div><div class="text"><p>Nombre: '+Nombre+'</p><p>Edad: '+Edad+'</p><p>Altura: '+Altura+'</p><p>Sexo: '+Sexo+'</p><p>Anime: '+Anime+'</p></div><br></article>';
     }
     document.getElementById('idcards').innerHTML = output;
 }
