@@ -12,7 +12,7 @@ function rev() {
 function cards()
 {
     
-    localStorage.setItem("tam", 40);
-    localStorage.setItem("cards",cards_num);
-    location.href = "Cards.html";
+    localStorage.setItem("tamaño", 40);
+    localStorage.setItem("cartas",cards_num);
+    location.href = "Cartas.html";
 }
