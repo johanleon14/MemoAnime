@@ -126,238 +126,238 @@ var jsonCards={"info":[
    "Sexo":"Femenino",
     "Anime":"Full Metal Alchemist"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Juvia Lockser",
+    "Edad":"17",
+    "Altura":"1.69",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Fairy Tail"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Kotonoha Katsura",
+    "Edad":"15",
+    "Altura":"1.57",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"School Days"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Mikoto Misaka",
+    "Edad":"14",
+    "Altura":"1.61",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Toaru Kagaku no Railgun"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"C.C.",
+    "Edad":"Desconocida",
+    "Altura":"1.68",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Code Geass"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Asuka Otori",
+    "Edad":"17",
+    "Altura":"1.52",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Mahou Shoujo Tokushusen Asuka"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Shiro",
+    "Edad":"11",
+    "Altura":"1.40",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"No Game No Life"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Neko",
+    "Edad":"15",
+    "Altura":"1.55",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"K Project"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Elizabeth Liones",
+    "Edad":"16",
+    "Altura":"1.62",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Nanatsu no Taizai"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Morgiana",
+    "Edad":"19",
+    "Altura":"1.64",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Magi"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Futaba Yoshioka",
+    "Edad":"17",
+    "Altura":"1.60",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Ao Haru Ride"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Aoi Sakurai",
+    "Edad":"17",
+    "Altura":"1.63",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"RAIL WARS!"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Kurumi Tokisaki",
+    "Edad":"17",
+    "Altura":"1.67",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Date A Live"
      }
-     ,{"Nombre":"",
-    "Edad":"",
+     ,{"Nombre":"Kurumi Isoshima",
+    "Edad":"16",
     "Altura":"",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Magical Warfare"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Arturia Pendragon (Saber)",
+    "Edad":"Desconocida",
+    "Altura":"1.54",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Fate"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Jeanne Kaguya d'Arc",
+    "Edad":"Desconocida",
+    "Altura":"Desconocida",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Nobunaga the Fool"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Megumin",
+    "Edad":"14",
+    "Altura":"1.51",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Kono Subarashii Sekai Ni Shukufuku Wo!"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Alka",
+    "Edad":"Desconocida",
+    "Altura":"Desconocida",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Blade and Soul"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Kosaki Onodera",
+    "Edad":"17",
+    "Altura":"1.57",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Nisekoi"
      }
-     ,{"Nombre":"",
-    "Edad":"",
-    "Altura":"",
+     ,{"Nombre":"Chitoge Kirisaki",
+    "Edad":"16",
+    "Altura":"1.60",
    "Sexo":"Femenino",
-    "Anime":""
+    "Anime":"Nisekoi"
      },
-     {"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+     {"Nombre":"Hiyori Iki",
+     "Edad":"15",
+     "Altura":"Desconocida",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Noragami"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"La Folia Rihavein",
+     "Edad":"16",
+     "Altura":"1.67",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Strike The Blood"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Kouko Kaga",
+     "Edad":"19",
+     "Altura":"1.66",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Golden Time"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Natsume Tsuchimikado",
+     "Edad":"18",
+     "Altura":"Desconocida",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Tokyo Ravens"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Ferris Eris",
+     "Edad":"Desconocida",
+     "Altura":"1.78",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Densetsu No Yuusha No Densetsu"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Celia Cumani Aintree",
+     "Edad":"Desconocida",
+     "Altura":"1.68",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Walkure Romanze"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Yaya",
+     "Edad":"Desconocida",
+     "Altura":"Desconocida",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Machine-Doll Kizutsukanai"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Laura Bodewig",
+     "Edad":"16",
+     "Altura":"1.52",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Infinite Stratos"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Yuno Gasai",
+     "Edad":"14",
+     "Altura":"1.60",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Mirai Nikki"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Mirai Kuriyama",
+     "Edad":"14",
+     "Altura":"1.52",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Kyoukai no Kanata"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Akame",
+     "Edad":"Desconocida",
+     "Altura":"1.64",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Akame Ga Kill"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Elucia de Lute Ima",
+     "Edad":"300+",
+     "Altura":"1.59",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Kami Nomi Zo Shiru Sekai"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Kuro Usagi",
+     "Edad":"200+",
+     "Altura":"Desconocida",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":" Mondaiji tachi ga Isekai Kara Kuru Sou Desu yo"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Kirino Kousaka",
+     "Edad":"14",
+     "Altura":"1.65",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Mashiro Shiina",
+     "Edad":"16",
+     "Altura":"1.62",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Sakurasou No Pet Na Kanojo"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Kohaku",
+     "Edad":"18",
+     "Altura":"1.52",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Dr. Stone"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Rei Ayanami",
+     "Edad":"14",
+     "Altura":"1.54",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Neo Genesis Evangelion"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Asuka Langley Sohryu",
+     "Edad":"14",
+     "Altura":"1.57",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Neo Genesis Evangelion"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Maya Natsume",
+     "Edad":"17",
+     "Altura":"1.70",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Tenjou Tenge"
       }
-      ,{"Nombre":"",
-     "Edad":"",
-     "Altura":"",
+      ,{"Nombre":"Yuki Kuran",
+     "Edad":"17",
+     "Altura":"1.52",
    "Sexo":"Femenino",
-     "Anime":""
+     "Anime":"Vampire Khight"
       }
 ]};
