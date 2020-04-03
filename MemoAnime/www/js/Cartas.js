@@ -14,7 +14,7 @@ function llenarCartas(){
         var Sexo=jsonCards.info[x[i]-1].Sexo;
         var Anime=jsonCards.info[x[i]-1].Anime;
         
-        output += '<article><div class="imagen"><img src="img/cards/'+x[i]+'.jpg"></div><div class="text"><p>Nombre: '+Nombre+'</p><p>Edad: '+Edad+'</p><p>Altura: '+Altura+'</p><p>Sexo: '+Sexo+'</p><p>Anime: '+Anime+'</p></div><br></article>';
+        output += '<article><div class="imagen"><img src="img/cards/'+x[i]+'.jpg"></div><div class="text"><p>Nombre: '+Nombre+'</p><p>Edad: '+Edad+'</p><p>Altura: '+Altura+'</p><p>Sexo: '+Sexo+'</p><p>Anime: '+Anime+'</p></div></article>';
     }
     document.getElementById('idcartas').innerHTML = output;
 }

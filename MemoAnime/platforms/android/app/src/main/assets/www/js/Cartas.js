@@ -1,9 +1,9 @@
-var x=localStorage.getItem("cards");
+var x=localStorage.getItem("cartas");
 
 var x = x.split(",");
-var tam=localStorage.getItem("tam");
+var tam=localStorage.getItem("tamaño");
 //alert(x);
-function fillCards(){
+function llenarCartas(){
     var output = '';
     //alert(x);
     for (var i = 0; i < tam; i=i+2) {
@@ -14,7 +14,7 @@ function fillCards(){
         var Sexo=jsonCards.info[x[i]-1].Sexo;
         var Anime=jsonCards.info[x[i]-1].Anime;
         
-        output += '<article><div class="imagen"><img src="img/cards/'+x[i]+'.jpg"></div><div class="text"><p>Nombre: '+Nombre+'</p><p>Edad: '+Edad+'</p><p>Altura: '+Altura+'</p><p>Sexo: '+Sexo+'</p><p>Anime: '+Anime+'</p></div><br></article>';
+        output += '<article><div class="imagen"><img src="img/cards/'+x[i]+'.jpg"></div><div class="text"><p>Nombre: '+Nombre+'</p><p>Edad: '+Edad+'</p><p>Altura: '+Altura+'</p><p>Sexo: '+Sexo+'</p><p>Anime: '+Anime+'</p></div></article>';
     }
-    document.getElementById('idcards').innerHTML = output;
+    document.getElementById('idcartas').innerHTML = output;
 }

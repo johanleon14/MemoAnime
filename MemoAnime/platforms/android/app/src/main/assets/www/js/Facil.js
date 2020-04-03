@@ -13,7 +13,7 @@ function rev() {
 // REDIRECCIONAR A LA GALERIA DE CARTAS
 function cards()
 {
-    localStorage.setItem("tam", 16);
-    localStorage.setItem("cards",cards_num);
-    location.href = "Cards.html";
+    localStorage.setItem("tamaño", 16);
+    localStorage.setItem("cartas",cards_num);
+    location.href = "Cartas.html";
 }

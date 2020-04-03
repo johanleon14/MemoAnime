@@ -81,10 +81,10 @@ function girarCartaMemoria(carta, valor) {
                     var carta_1 = document.getElementById(memoria_carta_ids[0]);
                     var carta_2 = document.getElementById(memoria_carta_ids[1]);
                     carta_1.style.background = 'url(img/logo.png) no-repeat'; //FONDO DE LA IMAGEN BOCA ABAJO
-                    carta_1.style.backgroundSize = '100%';
+                    carta_1.style.backgroundSize = '100% 100%';
                     carta_1.innerHTML = "";
                     carta_2.style.background = 'url(img/logo.png) no-repeat';
-                    carta_2.style.backgroundSize = '100%';
+                    carta_2.style.backgroundSize = '100% 100%';
                     carta_2.innerHTML = "";
                     //despejando los dos arrays
                     valor_memoria = [];
